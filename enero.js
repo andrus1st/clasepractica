@@ -1,1 +1,2 @@
-console.log(enero)
+console.log(enero) 
+01
